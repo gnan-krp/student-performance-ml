@@ -2,8 +2,8 @@ import numpy as np
 
 data = np.loadtxt("data.csv", delimiter=",", skiprows=1)
 
-X = data[:, :2]   # hours and attendance
-y = data[:, 2]    # score
+X = data[:, :2]  
+y = data[:, 2]  
 
 X = np.c_[np.ones(X.shape[0]), X]
 
