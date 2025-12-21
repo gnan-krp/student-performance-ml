@@ -1,28 +1,36 @@
-# NumPy & Python Basics for Machine Learning
+# Student Performance Prediction using Machine Learning
 
-This repository contains my practice work and notes while learning **Python and NumPy** as preparation for **Machine Learning**.
+##  Description
+This project predicts a student's final score based on study hours and attendance
+using a simple machine learning algorithm (linear regression).
 
-##  What this repository covers
-- Python fundamentals
-- NumPy arrays
-- Indexing and slicing
-- Basic numerical operations
-- Small practice programs
+##  Concepts Used
+- Supervised Learning
+- Linear Regression
+- Basic data preprocessing
+- Model prediction
 
-##  Purpose
-I created this repository to:
-- Build a strong foundation for Machine Learning
-- Support my learning from **Andrew Ng’s Machine Learning course**
-- Maintain consistent GitHub contributions
-
-##  Tools & Technologies
-- Python 3
+##  Technologies Used
+- Python
 - NumPy
 
-##  Learning Status
-- NumPy basics: ✅ Completed  
-- Machine Learning: In progress  
+##  Dataset
+The dataset contains:
+- Hours studied
+- Attendance percentage
+- Final score
 
-##  Future Plans
-- Add small ML-related NumPy examples
-- Start Pandas and data analysis
+##  How to Run
+1. Clone the repository
+2. Install NumPy
+3. Run `model.py`
+4. Enter hours and attendance when prompted
+
+##  What I Learned
+- How linear regression works
+- Applying ML theory to real data
+- Writing simple ML code from scratch
+
+##  Author
+Your Name  
+IT Student | Machine Learning Beginner
