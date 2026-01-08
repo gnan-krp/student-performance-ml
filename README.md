@@ -25,28 +25,6 @@ To build a machine learning model that can predict student performance based on 
 
 ---
 
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-```bash
-git clone https://github.com/gnan-krp/student-performance-ml.git
-
-# Navigate to the project directory
-cd student-performance-ml
-
-# Install the required libraries
-pip install -r requirements.txt
-
-# Run the notebook or Python file to see the predictions
-# For Jupyter Notebook
-jupyter notebook
-
-# Or for a Python script
-python your_script.py
-
-## ▶️ Run the Project
-Run the Jupyter notebook or Python file to see the predictions.
-
 ## 📊 Model Used
 A supervised machine learning model such as **Linear Regression** or a basic **classification algorithm** is used to train and evaluate student performance data.
 
